@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProyekAkhirDicoding</string>
+    <string name="nama_resep">Nama Resep</string>
+    <string name="detail">Detail Resep</string>
+    <string name="share">Share Resep</string>
+    <string name="bahan">Bahan</string>
+    <string name="pembuatan">Cara Pembuatan</string>
+    <string name="profile">profile</string>
+    <string name="my_name">Rivaldo</string>
+    <string name="email">rivaldozhuo30@gmail.com</string>
+    <string name="instagram">IG: rvldo.zh</string>
+</resources>
